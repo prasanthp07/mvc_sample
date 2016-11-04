@@ -15,7 +15,7 @@
         "vizion"           : false, // enable/disable vizion features (versioning control)
         "env": {
             "NODE_ENV"    : "staging",
-            "HOST"        : "http://ec2-52-43-79-87.us-west-2.compute.amazonaws.com",
+            "HOST"        : "http://ec2-54-226-209-233.compute-1.amazonaws.com",
             "PORT"        : 8080,
             "MONGODB_URL" : "mongodb://localhost:27017/API_Server_Staging"
         }
