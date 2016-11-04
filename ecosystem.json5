@@ -24,7 +24,7 @@
     deploy : {
         staging : {
             user : "ec2-user",
-            host : "52.66.24.226",
+            host : "54.226.209.233",
             key  : "prasant.pem",
             ref  : "origin/master",
             repo : "git@github.com:prasanthp07/mvc_sample.git",
