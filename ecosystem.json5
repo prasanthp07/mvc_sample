@@ -16,7 +16,7 @@
         "env": {
             "NODE_ENV"    : "staging",
             "HOST"        : "http://ec2-52-43-79-87.us-west-2.compute.amazonaws.com",
-            "PORT"        : 7102,
+            "PORT"        : 8080,
             "MONGODB_URL" : "mongodb://localhost:27017/API_Server_Staging"
         }
     }
